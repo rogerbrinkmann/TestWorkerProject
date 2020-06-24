@@ -6943,11 +6943,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\roger\\projects\\dotnet\\solutions\\TestWorker\\TestWorkerProject\\TestWorkerProject.csproj",
+      "projectUniqueName": "C:\\Users\\roger\\projects\\dotnet\\solutions\\TestWorkerProject\\TestWorkerProject.csproj",
       "projectName": "TestWorkerProject",
-      "projectPath": "C:\\Users\\roger\\projects\\dotnet\\solutions\\TestWorker\\TestWorkerProject\\TestWorkerProject.csproj",
+      "projectPath": "C:\\Users\\roger\\projects\\dotnet\\solutions\\TestWorkerProject\\TestWorkerProject.csproj",
       "packagesPath": "C:\\Users\\roger\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\roger\\projects\\dotnet\\solutions\\TestWorker\\TestWorkerProject\\obj\\",
+      "outputPath": "C:\\Users\\roger\\projects\\dotnet\\solutions\\TestWorkerProject\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\roger\\AppData\\Roaming\\NuGet\\NuGet.Config"

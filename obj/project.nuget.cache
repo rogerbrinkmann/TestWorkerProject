@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xaOUvf4Y3PEDpGfRpK+09dD9cR+d63EqV9eBCLMGhvTyJG41dyuPaLqrNGFF0fI9zDplGkWxwtU+ADoERMotUg==",
+  "dgSpecHash": "2naW7SLCPZ8Y3uZViQtqM6YANlQcVw/h3F9i+glOVYrqvPKVvA90PwJeMxLdAwRK777jFDD10DURd8RZVnQcxA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\roger\\projects\\dotnet\\solutions\\TestWorker\\TestWorkerProject\\TestWorkerProject.csproj",
+  "projectFilePath": "C:\\Users\\roger\\projects\\dotnet\\solutions\\TestWorkerProject\\TestWorkerProject.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\roger\\.nuget\\packages\\microsoft.aspnetcore.hosting.abstractions\\2.0.0\\microsoft.aspnetcore.hosting.abstractions.2.0.0.nupkg.sha512",
     "C:\\Users\\roger\\.nuget\\packages\\microsoft.aspnetcore.hosting.server.abstractions\\2.0.0\\microsoft.aspnetcore.hosting.server.abstractions.2.0.0.nupkg.sha512",
